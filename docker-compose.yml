@@ -1,0 +1,14 @@
+version: '2'
+services:
+  openvpn:
+    cap_add:
+     - NET_ADMIN
+    image: johnbeck/openvpn_aarch64
+    container_name: openvpn
+    build: 
+      dockerfile: Dockerfile.aarch64
+    ports:
+     - "1194:1194/udp"
+    restart: always
+    volumes:
+     - ./openvpn-data/conf:/etc/openvpn

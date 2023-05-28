@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            c2:1d:28:cc:b9:c2:66:65:2f:3b:75:b3:26:c2:e3:80
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=UNITY
+        Validity
+            Not Before: May 27 21:45:21 2023 GMT
+            Not After : Aug 29 21:45:21 2025 GMT
+        Subject: CN=UNITY83.HUBGOO.COM
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:8f:13:90:f9:4f:02:e0:cc:e2:8d:d2:ca:66:
+                    88:75:e7:e5:ef:a4:0e:ad:bd:e7:f0:71:99:f5:f6:
+                    ce:8c:23:83:fc:02:bd:5c:06:5e:3b:3f:af:fb:cc:
+                    7b:08:9b:3b:d4:68:28:e3:f5:a6:55:6e:9a:fa:3c:
+                    81:21:fd:9c:24:fb:67:9f:dc:2b:c3:12:2f:e4:87:
+                    8e:9c:a1:d9:b4:47:f3:c2:e6:f7:e7:c1:ac:19:78:
+                    60:b0:a8:e3:1a:25:72:8f:16:81:6d:cd:33:ca:f9:
+                    9a:2f:aa:ff:31:f5:8b:65:09:ee:97:5f:95:83:9c:
+                    0a:58:ba:67:69:c5:f8:98:ff:62:67:89:0b:e4:cd:
+                    6c:d0:fe:62:da:54:fa:8e:b6:95:1d:3e:4a:83:7f:
+                    e4:1e:dc:b5:29:32:51:f1:4e:a3:7e:68:ac:66:d5:
+                    a9:01:56:34:90:01:df:59:f3:88:9d:3a:db:e3:62:
+                    2c:a0:26:14:6b:58:7c:6e:fb:3f:9d:0d:6b:7d:4e:
+                    58:b0:09:67:09:da:b0:6c:d8:a4:67:a6:93:90:b7:
+                    d7:49:a9:0f:99:db:f9:a6:86:7a:17:e1:5e:40:8d:
+                    f2:5c:d8:6f:ea:0d:98:60:18:76:e1:e5:8f:9a:b0:
+                    d2:d7:ef:ce:17:85:18:a3:bb:3a:b1:93:13:61:72:
+                    2c:f5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                37:F5:3E:BE:50:11:88:68:29:66:AC:1D:1C:39:0D:C8:F1:8B:52:96
+            X509v3 Authority Key Identifier: 
+                keyid:53:63:CA:7B:AA:45:AF:69:C5:63:C0:10:C7:73:AF:A8:09:90:61:68
+                DirName:/CN=UNITY
+                serial:23:6F:2F:86:28:28:D6:25:E5:36:09:C0:EF:EC:A0:D4:FE:82:91:1E
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:UNITY83.HUBGOO.COM
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        7d:4e:fe:dc:03:d9:af:95:a7:3e:e5:02:e1:8c:a4:84:12:68:
+        4e:51:2f:00:53:22:c8:7e:6e:af:43:49:5b:df:44:05:61:14:
+        2b:87:2a:6d:c3:2c:1c:9a:04:6e:bc:5a:af:fd:5f:a2:6c:b0:
+        ac:32:0b:e0:68:dd:00:b9:f5:8d:6c:dc:8c:4f:8c:08:6a:9f:
+        2c:54:c3:9d:e3:54:11:b2:a6:a4:8c:ab:ff:b5:26:cf:e3:98:
+        5e:46:61:9a:b1:8c:45:5b:a3:f1:14:78:70:2c:08:5f:ef:80:
+        dd:d5:48:90:e5:ea:99:e9:2c:2e:99:d7:6f:41:8e:fb:0c:68:
+        4e:c5:6a:0f:57:40:95:08:3d:14:3e:44:2e:85:aa:95:06:65:
+        19:57:b9:ee:55:fb:75:22:a5:af:b7:56:03:9b:30:33:27:ce:
+        0d:c6:0f:86:ed:ae:1c:59:c1:4a:69:1f:65:90:37:a6:02:73:
+        52:c4:95:65:f2:fc:35:f6:62:99:c0:dc:ca:c9:9f:da:e0:7c:
+        a7:06:1b:4c:cd:fe:67:f7:ad:71:74:c3:98:48:e7:7a:a3:4e:
+        c7:6b:5a:e9:e7:17:13:20:67:25:51:78:8c:cc:5e:69:ae:8e:
+        96:de:61:c9:75:e9:b5:cf:56:fb:cb:a9:60:6f:d3:3b:0e:32:
+        ea:a5:84:77
+-----BEGIN CERTIFICATE-----
+MIIDdDCCAlygAwIBAgIRAMIdKMy5wmZlLzt1sybC44AwDQYJKoZIhvcNAQELBQAw
+EDEOMAwGA1UEAwwFVU5JVFkwHhcNMjMwNTI3MjE0NTIxWhcNMjUwODI5MjE0NTIx
+WjAdMRswGQYDVQQDDBJVTklUWTgzLkhVQkdPTy5DT00wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCsjxOQ+U8C4MzijdLKZoh15+XvpA6tvefwcZn19s6M
+I4P8Ar1cBl47P6/7zHsImzvUaCjj9aZVbpr6PIEh/Zwk+2ef3CvDEi/kh46codm0
+R/PC5vfnwawZeGCwqOMaJXKPFoFtzTPK+Zovqv8x9YtlCe6XX5WDnApYumdpxfiY
+/2JniQvkzWzQ/mLaVPqOtpUdPkqDf+Qe3LUpMlHxTqN+aKxm1akBVjSQAd9Z84id
+OtvjYiygJhRrWHxu+z+dDWt9TliwCWcJ2rBs2KRnppOQt9dJqQ+Z2/mmhnoX4V5A
+jfJc2G/qDZhgGHbh5Y+asNLX784XhRijuzqxkxNhciz1AgMBAAGjgbswgbgwCQYD
+VR0TBAIwADAdBgNVHQ4EFgQUN/U+vlARiGgpZqwdHDkNyPGLUpYwSwYDVR0jBEQw
+QoAUU2PKe6pFr2nFY8AQx3OvqAmQYWihFKQSMBAxDjAMBgNVBAMMBVVOSVRZghQj
+by+GKCjWJeU2CcDv7KDU/oKRHjATBgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8E
+BAMCBaAwHQYDVR0RBBYwFIISVU5JVFk4My5IVUJHT08uQ09NMA0GCSqGSIb3DQEB
+CwUAA4IBAQB9Tv7cA9mvlac+5QLhjKSEEmhOUS8AUyLIfm6vQ0lb30QFYRQrhypt
+wywcmgRuvFqv/V+ibLCsMgvgaN0AufWNbNyMT4wIap8sVMOd41QRsqakjKv/tSbP
+45heRmGasYxFW6PxFHhwLAhf74Dd1UiQ5eqZ6SwumddvQY77DGhOxWoPV0CVCD0U
+PkQuhaqVBmUZV7nuVft1IqWvt1YDmzAzJ84Nxg+G7a4cWcFKaR9lkDemAnNSxJVl
+8vw19mKZwNzKyZ/a4HynBhtMzf5n961xdMOYSOd6o07Ha1rp5xcTIGclUXiMzF5p
+ro6W3mHJdem1z1b7y6lgb9M7DjLqpYR3
+-----END CERTIFICATE-----
